@@ -1,4 +1,4 @@
-# Challenge: The-Prophecy
+# Challenge: It's not my fault!
 ## Champions
 Alex Donkers/Ekatrina Petrova*
 
