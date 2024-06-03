@@ -3,7 +3,7 @@
 Alex Donkers/Ekatrina Petrova*
 
 ## Number of people per team: 
-4-5
+4
 
 ## Anticipated workload:
 approx. 24 hours per person, including the time for preparation of the presentation
