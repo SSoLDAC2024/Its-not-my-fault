@@ -39,8 +39,12 @@ https://data.openei.org/submissions/5763
 ## References: 
 
 [1] Maryam Sadat Mirnaghi and Fariborz Haghighat. Fault detection and diagnosis of large-scale hvac systems in buildings using data-driven methods: A comprehensive review. Energy and Buildings, 229:110492, 2020.
+
 [2] Yang Zhao, Tingting Li, Xuejun Zhang, and Chaobo Zhang. Artificial
 intelligence-based fault detection and diagnosis methods for building energy systems: Advantages, challenges and the future. Renewable and Sustainable Energy Reviews, 109:85–101, 07 2019.
+
 [3] Rasmussen, Mads Holten et al. BOT: The Building Topology Ontology of the W3C Linked Building Data Group. 143 – 161, 01 2021.
+
 [4] Balaji, Bharathan et al. Brick : Metadata schema for portable smart building applications.  226:1273-1292, 09 2018.
+
 [5] Lawrence Berkeley National Laboratory. (2022). LBNL Fault Detection and Diagnostics Datasets [data set]. Retrieved from https://dx.doi.org/10.25984/1881324; https://data.openei.org/submissions/5763.
